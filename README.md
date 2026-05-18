@@ -69,7 +69,7 @@ Dataset includes:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/autoscope-car-market-analyzer.git
+git clone https://github.com/imilky/autoscope-car-market-analyzer.git
 ```
 
 ### 2. Navigate into the project folder
