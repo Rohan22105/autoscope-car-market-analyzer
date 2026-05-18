@@ -1,0 +1,101 @@
+# AutoScope - Used Car Market Intelligence Dashboard
+
+AutoScope is a Python-based analytics dashboard that analyzes real-world used car marketplace data to identify pricing trends, depreciation patterns, and potentially underpriced vehicle listings.
+
+The project uses real used-car listing data and provides interactive filtering, analytics, and visualization tools to evaluate vehicle value more intelligently than simply comparing sticker prices.
+
+---
+
+## Features
+
+* Real-world used vehicle dataset analysis
+* Interactive dashboard built with Streamlit
+* Vehicle filtering by:
+
+  * Brand
+  * Price
+  * Mileage
+  * Year
+  * Body type
+* Market trend analysis
+* Deal scoring system
+* Estimated market value calculations
+* Underpriced vs overpriced vehicle detection
+* Data visualizations using Matplotlib
+* Real-time dashboard interaction
+
+---
+
+## Technologies Used
+
+* Python
+* Pandas
+* Streamlit
+* Matplotlib
+
+---
+
+## Dataset
+
+This project uses a real used-car marketplace dataset sourced from Kaggle.
+
+Dataset includes:
+
+* Manufacturer
+* Model
+* Price
+* Mileage
+* Fuel type
+* Transmission
+* Vehicle type
+* State
+* Year
+
+---
+
+## How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/autoscope-car-market-analyzer.git
+```
+
+### 2. Navigate into the project folder
+
+```bash
+cd autoscope-car-market-analyzer
+```
+
+### 3. Install dependencies
+
+```bash
+pip install streamlit pandas matplotlib
+```
+
+### 4. Run the dashboard
+
+```bash
+python -m streamlit run app.py
+```
+
+---
+
+## Project Goals
+
+The purpose of this project is to combine:
+
+* data analytics
+* business intelligence
+* visualization
+* software development
+
+into an interactive dashboard that simulates real-world market analysis tools.
+
+---
+
+
+## Author
+
+Irtija Milky
+Technology & Information Management Student - UC Santa Cruz
