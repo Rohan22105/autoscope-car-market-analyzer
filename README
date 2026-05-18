@@ -4,6 +4,17 @@ AutoScope is a Python-based analytics dashboard that analyzes real-world used ca
 
 The project uses real used-car listing data and provides interactive filtering, analytics, and visualization tools to evaluate vehicle value more intelligently than simply comparing sticker prices.
 
+## Dashboard Preview
+
+### Main Dashboard
+![Dashboard Overview](dashboard_overview.png)
+
+### Market Trend Graphs
+![Graphs](graph_overview.png)
+
+### BMW-Specific Analysis
+![BMW Analysis](bmw_specific.png)
+
 ---
 
 ## Features
